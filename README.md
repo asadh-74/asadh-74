@@ -1,108 +1,103 @@
 # Hi, I'm Asad Hussain 👋
 
-### Electrical & Embedded Engineer | AI/ML | Intelligent Systems
+### Software Engineer | AI/ML | Automation | Agentic AI
 
-I build intelligent engineering systems at the intersection of **Electrical Engineering, Embedded Systems, Artificial Intelligence, and Automation**.
+I build **AI-powered software, intelligent automation systems, and agentic AI solutions** that turn complex workflows into practical, scalable applications.
 
-My work spans **machine learning, computer vision, RF & signal processing, IoT, backend development, and intelligent engineering applications**.
+My work focuses on **Artificial Intelligence, Machine Learning, backend development, automation, AI agents, APIs, and intelligent software systems**.
 
-I enjoy turning engineering problems into practical, software-driven solutions.
+I enjoy building software that can **understand information, make decisions, automate tasks, and solve real-world problems**.
 
 ---
 
 ## 🔧 Technical Focus
 
-### AI & Machine Learning
+### 🤖 AI & Machine Learning
 
 * Python
-* Scikit-learn
-* Computer Vision
-* NLP
+* Machine Learning
 * Deep Learning
+* NLP
+* Computer Vision
+* Scikit-learn
+* TensorFlow / Keras
 * Model Deployment
+* AI Integration
 
-### Embedded & IoT
+### 🧠 Agentic AI
 
-* C / C++
-* ESP32
-* Arduino
-* STM32
-* Raspberry Pi
-* IoT Systems
-* Sensor Integration
+* AI Agents
+* Agentic Workflows
+* LLM Applications
+* Tool Calling
+* AI Workflow Automation
+* Multi-Step AI Workflows
+* Retrieval-Augmented Generation (RAG)
+* AI Decision Systems
+* Intelligent Task Automation
 
-### RF & Signal Processing
-
-* MATLAB / Simulink
-* Software Defined Radio (SDR)
-* RF Signal Processing
-* Time-Frequency Analysis
-* Signal Classification
-
-### Backend & Software
+### ⚙️ Backend & Software Engineering
 
 * Python
-* Flask
 * FastAPI
-* SQL
+* Flask
 * REST APIs
+* SQL
+* SQLite
+* API Integration
+* Backend Architecture
+* Authentication & CRUD Systems
 * Git / GitHub
+
+### 🔄 Automation
+
+* Workflow Automation
+* Python Automation
+* API Automation
+* AI-Powered Automation
+* Document Intelligence
+* Data Processing
+* Automated Decision Workflows
+* n8n
 
 ---
 
 ## 🚀 Featured Work
 
-### 📡 UAV RF Detection & Classification
+### 🤖 AI & Agentic Automation
 
-An AI-assisted RF intelligence system for detecting and classifying UAV communication signals using software-defined radio, signal processing, and machine learning.
+Building intelligent applications that combine **LLMs, APIs, automation, and decision-making workflows** to automate tasks that traditionally require manual effort.
 
-**Python · MATLAB/Simulink · SDR · Signal Processing · Machine Learning**
+**Python · LLMs · AI Agents · APIs · Automation · RAG**
 
-### 👁️ Real-Time Object Detection
+### 📄 AI Document Intelligence
 
-A computer vision system for detecting and classifying objects from images and video using deep learning techniques.
+An AI-powered document processing system designed to **extract, organize, search, and retrieve information from documents** using intelligent processing and semantic search.
 
-**Python · Computer Vision · Deep Learning**
+**Python · FastAPI · NLP · Embeddings · RAG · AI Automation**
 
-### ⚡ Intelligent Energy Monitoring
+### ⚙️ Backend & AI APIs
 
-A simulation-based smart energy monitoring system combining electrical measurements, IoT concepts, signal processing, and data visualization.
+Developing backend systems and REST APIs that integrate **AI models and intelligent workflows into production-ready software applications**.
 
-**MATLAB/Simulink · ESP32 · IoT · Signal Processing**
-
-### 🚚 Fleet Management System
-
-An intelligent fleet monitoring system incorporating GPS tracking, geofencing, authentication, and a SQL-backed backend.
-
-**Python · SQL · GPS · IoT · Backend Development**
+**Python · FastAPI · Flask · SQL · REST APIs · AI Integration**
 
 ---
 
-## 🧠 Currently Exploring
+## 🎯 What I Build
 
-* Edge AI & Embedded AI
-* Intelligent Automation
-* Computer Vision
-* RF Signal Intelligence
-* AI-powered Engineering Applications
-* Embedded Systems
-
----
-
-## 📈 Engineering Philosophy
-
-> **Build systems that connect intelligence with the physical world.**
-
-I am particularly interested in projects where **AI, embedded systems, signal processing, and engineering** come together to solve practical problems.
+* AI-powered applications
+* Agentic AI systems
+* Intelligent automation workflows
+* AI/ML APIs
+* Backend applications
+* Document intelligence systems
+* LLM-powered tools
+* Workflow automation
+* AI decision-support systems
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Let's Connect
 
-🌍 **Portfolio:** [asad-portfolio-flax-pi.vercel.app](https://asad-portfolio-flax-pi.vercel.app/)
-
-💻 **GitHub:** [github.com/asadh-74](https://github.com/asadh-74)
-
----
-
-⭐ If you find my projects interesting, feel free to explore the repositories below.
+I'm interested in **Software Engineering, AI/ML, Agentic AI, automation, freelance projects, internships, and engineering collaboration**.
