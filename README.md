@@ -1,58 +1,53 @@
-<img align="right" src="./assets/asad-hussain-portrait.jpg" alt="Asad Hussain in a navy suit" width="145" />
+<img align="right" src="./assets/asad-hussain-portrait.jpg" alt="Asad Hussain" width="145" />
 
 # Asad Hussain
 
-### Software Engineering · Applied AI · Automation
+### Software Engineering · Applied AI · Backend Automation
 
-I build web applications, Python APIs and automated workflows that connect data, software and AI to practical business needs.
+I build software that connects reliable APIs, data workflows, and AI to practical business needs. My work spans backend systems, full-stack applications, machine learning prototypes, and agentic automation.
 
-Currently an **Automation Engineer at Cymatics Technologies**, where I delivered **Bid Monitor**, a construction procurement platform. I am completing my **B.E. at NUST, graduating in 2027**, with a focus on software engineering, backend development and applied machine learning.
+Currently an **Automation Engineer at Cymatics Technologies**, building **Bid Monitor**, a procurement monitoring platform. I am completing a **B.E. at NUST (expected 2027)** and the **atomcamp AI Bootcamp at NSTP Islamabad (June-November 2026)**.
 
-**[Software portfolio](https://automation-portfolio-steel.vercel.app/) · [View CV](https://automation-portfolio-steel.vercel.app/assets/Asad_Hussain_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/asad-hussain92/)**
+**[LinkedIn](https://www.linkedin.com/in/asad-hussain92/) · [Upwork](https://www.upwork.com/freelancers/~0161b839f2733215d1)**
 
 <br clear="right" />
 
 ## Selected projects
 
-| Project | What I built | Core technologies |
+| Project | What I built | Technologies |
 | --- | --- | --- |
-| **[Bid Monitor](https://github.com/asadh-74/bid-monitor)** | Procurement collectors, HTML/PDF extraction, deduplication, a searchable dashboard and reviewed contractor outreach. | Python, FastAPI, Playwright, Google Sheets, n8n, GitHub Actions |
-| **[MarketHub](https://github.com/asadh-74/markethub)** | A multi-vendor marketplace with customer, vendor and admin workflows, shared inventory and simulated checkout. | Laravel, Vue 3, Inertia.js, MySQL, Docker |
-| **[PayPilot](https://github.com/asadh-74/PayPilot)** | A hackathon payment-operations app with natural-language invoice drafts, PayPal Sandbox reconciliation, verified webhooks and a traceable automation outbox. | Python, FastAPI, MySQL, PayPal Sandbox |
-| **[PCB Defect Detection](https://github.com/asadh-74/PCB-Defect-Detection)** | A six-class inspection pipeline with small-defect tiling, board-based splits, YOLO and Faster R-CNN evaluation. Real-data training and final metrics are pending. | PyTorch, Ultralytics YOLO, torchvision, Streamlit |
-| **[Career Atlas](https://github.com/asadh-74/AI-Career)** | Public job-feed ingestion, PDF resume extraction, AI matching, application drafts and a persistent review queue. | FastAPI, Flutter, PostgreSQL, Gemini |
-| **[AutoFlow](https://github.com/asadh-74/AutoFlow)** | A business dashboard connecting customer CRUD, webhook workflows, execution tracking, CSV cleaning and reporting. | Spring Boot, FastAPI, PostgreSQL, n8n |
-| **[AI Support Triage](https://github.com/asadh-74/ai-support-triage-agent)** | A support-agent prototype combining policy retrieval, order lookup, decision traces and human escalation. | FastAPI, Hugging Face, RAG, Firecrawl, n8n |
-
-**Explore demos:** [Bid Monitor](https://bid-monitor.onrender.com/) · [MarketHub](https://markethub-b3fz.onrender.com/shop) · [Career Atlas](https://career-atlas-yhx1.onrender.com/)
+| **[Bid Monitor](https://github.com/asadh-74/bid-monitor)** | Procurement data collectors, HTML/PDF extraction, deduplication, searchable dashboard, and reviewed outreach workflows. | Python, FastAPI, Playwright, Google Sheets, n8n |
+| **[PayPilot](https://github.com/asadh-74/PayPilot)** | Payment operations prototype with invoice drafts, PayPal Sandbox reconciliation, verified webhooks, and an auditable automation outbox. | Python, FastAPI, MySQL |
+| **[MarketHub](https://github.com/asadh-74/markethub)** | Multi-vendor marketplace with customer, vendor, and admin workflows, shared inventory, and simulated checkout. | Laravel, Vue 3, Inertia.js, MySQL |
+| **[Career Atlas](https://github.com/asadh-74/AI-Career)** | Job-feed ingestion, resume parsing, AI matching, application drafts, and a persistent review queue. | FastAPI, Flutter, PostgreSQL, Gemini |
+| **[AI Support Triage](https://github.com/asadh-74/ai-support-triage-agent)** | Support-agent prototype with policy retrieval, order lookup, decision traces, and human escalation. | FastAPI, RAG, Hugging Face, n8n |
+| **[AutoFlow](https://github.com/asadh-74/AutoFlow)** | Operations dashboard with customer workflows, webhooks, execution tracking, CSV cleaning, and reporting. | Spring Boot, FastAPI, PostgreSQL, n8n |
+| **[PCB Defect Detection](https://github.com/asadh-74/PCB-Defect-Detection)** | Six-class visual inspection pipeline with tiling, board-based splits, and YOLO/Faster R-CNN evaluation. | PyTorch, Ultralytics, torchvision |
 
 ## Technical toolkit
 
-| Area | Skills and tools |
-| --- | --- |
-| **Languages** | Python, JavaScript, PHP, Java, SQL |
-| **Backend & web** | FastAPI, Flask, Laravel, Spring Boot, Vue.js, HTML/CSS, REST APIs |
-| **AI & machine learning** | Scikit-learn, TensorFlow/Keras, PyTorch, XGBoost, OpenCV, YOLO |
-| **Agents & retrieval** | LangChain, LangGraph, CrewAI, RAG, Gemini API, Hugging Face |
-| **Automation** | n8n, Playwright, webhooks, HTML/PDF extraction, Google Sheets API |
-| **Data & delivery** | PostgreSQL, MySQL, SQLite, Supabase, Docker, GitHub Actions, Render, Vercel |
-| **Quality** | Git, pytest, PHPUnit, API testing, authentication, debugging, technical documentation |
+- **Languages:** Python, Java, JavaScript, PHP, SQL
+- **Backend and web:** FastAPI, Flask, Laravel, Spring Boot, Vue.js, REST APIs
+- **AI/ML:** scikit-learn, TensorFlow/Keras, PyTorch, OpenCV, YOLO, RAG
+- **Agents and automation:** LangChain, LangGraph, CrewAI, n8n, Playwright, webhooks
+- **Data and delivery:** PostgreSQL, MySQL, SQLite, Supabase, Docker, GitHub Actions
+- **Quality:** pytest, PHPUnit, API testing, CI/CD, debugging, technical documentation
 
-## Experience and engineering approach
+## Experience
 
-- **Cymatics Technologies — Automation Engineer:** delivered Bid Monitor, connecting data collection, structured records, search and reviewed outreach.
-- **FlyRank AI — Backend AI Engineering Intern:** built authenticated APIs and a PostgreSQL-backed usage-metering and billing capstone with quota enforcement and Stripe test-mode webhook handling. [Explore the capstone](https://github.com/asadh-74/flyrank-capstone-metering-billing.)
-- **CodeAlpha — Machine Learning Intern:** developed classification projects and evaluated precision, recall, F1 and ROC-AUC.
-- **atomcamp AI Bootcamp:** hands-on work in deep learning, NLP, generative AI, RAG and AI application development.
+- **Cymatics Technologies - Automation Engineer:** building Bid Monitor to collect, structure, search, and review procurement opportunities.
+- **FlyRank AI - Backend AI Engineering Intern:** developed authenticated APIs and a PostgreSQL-backed usage metering and billing capstone with quota enforcement and Stripe test-mode webhook handling. [Code](https://github.com/asadh-74/flyrank-capstone-metering-billing.)
+- **CodeAlpha - Machine Learning Intern:** built classification projects and evaluated model performance with precision, recall, F1, and ROC-AUC.
+- **atomcamp AI Bootcamp, NSTP Islamabad (June-November 2026):** practical work in Python, EDA, machine learning, deep learning, agentic AI, LangChain, LangGraph, CrewAI, n8n, Git, Docker, and CI/CD.
 
-I care about clear interfaces, reliable data flows, testable integrations and evidence-based evaluation. My portfolio distinguishes demos and sandbox integrations from real operational deployments.
+I value readable code, secure integrations, reliable data flows, and measurable evaluation. I distinguish prototypes and sandbox integrations from production deployments.
 
-## More to explore
+## More GitHub work
 
-[ProjectPulse — collaborative task management](https://github.com/asadh-74/projectpulse) · [HealthOps — API and DevOps portfolio](https://github.com/asadh-74/healthops) · [Zenbot — retrieval assistant](https://github.com/asadh-74/zenbot)
+[ProjectPulse](https://github.com/asadh-74/projectpulse) · [HealthOps](https://github.com/asadh-74/healthops) · [Zenbot](https://github.com/asadh-74/zenbot) · [FlyRank metering API](https://github.com/asadh-74/flyrank-capstone-metering-billing.)
 
-## Let's work together
+## Contact
 
-Interested in **software engineering, AI applications, backend development and automation** opportunities, freelance projects and technical collaboration.
+Open to remote software engineering, backend, AI application, and automation roles, as well as freelance projects.
 
-Connect on **[LinkedIn](https://www.linkedin.com/in/asad-hussain92/)** or explore my **[portfolio](https://automation-portfolio-steel.vercel.app/)**.
+Reach me on **[LinkedIn](https://www.linkedin.com/in/asad-hussain92/)** or **[Upwork](https://www.upwork.com/freelancers/~0161b839f2733215d1)**.
