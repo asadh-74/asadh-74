@@ -4,7 +4,7 @@ Reviewed 28 October 2026. This is an evidence inventory, not a claim that hardwa
 
 | Project | Repository | Available evidence / outstanding work |
 |---|---|---|
-| Fleet tracking | [asad-portfolio](https://github.com/asadh-74/asad-portfolio) | Case study, report and two prototype photos; dedicated repository pending. |
+| HIT fleet tracking internship | [HIT-Fleet-Tracking-Internship](https://github.com/asadh-74/HIT-Fleet-Tracking-Internship) | Dedicated internship case-study archive: revised RDC/HIT report, two prototype photos and architecture. Runtime source not bundled. |
 | Active low-pass filter | [Second-Order-Active-Low-Pass-Filter](https://github.com/asadh-74/Second-Order-Active-Low-Pass-Filter) | Report and response-plot preview; reproducible native simulation and hardware retest pending. |
 | Audio amplifier | [Audio-Power-Amplifier](https://github.com/asadh-74/Audio-Power-Amplifier) | Report archive; source and hardware retest not verified. |
 | EEG processing | [EEG-Signal-Processing](https://github.com/asadh-74/EEG-Signal-Processing) | Report and GUI screenshot; runnable MATLAB app not verified. |
@@ -12,9 +12,9 @@ Reviewed 28 October 2026. This is an evidence inventory, not a claim that hardwa
 | Graphic equalizer | [Five-Band-Graphic-Equalizer](https://github.com/asadh-74/Five-Band-Graphic-Equalizer) | Report and GUI screenshot; native MATLAB/Simulink files not verified. |
 | 4-bit ALU | [Four-Bit-ALU](https://github.com/asadh-74/Four-Bit-ALU) | Report and breadboard photo; current truth-table testing not performed. |
 | FM receiver | [FM-Receiver](https://github.com/asadh-74/FM-Receiver) | Report and prototype photo; receiver measurements not rerun. |
-| Monthly Budget Planner | Pending | C++ report located; dedicated repository and compilable source pending. |
+| Monthly Budget Planner | [Monthly-Budget-Planner-CPP](https://github.com/asadh-74/Monthly-Budget-Planner-CPP) | Original report and output preview archived; standalone compilable source remains unavailable. |
 | Multirange voltmeter | [Multirange-Voltmeter](https://github.com/asadh-74/Multirange-Voltmeter) | Report and simulation screenshot; calibration not rerun. |
-| Shopping Cart | Pending | C++ report located; dedicated repository and compilable source pending. |
+| Shopping Cart | [Shopping-Cart-System-CPP](https://github.com/asadh-74/Shopping-Cart-System-CPP) | Original report and preview archived; standalone source remains unavailable. |
 | Water level indicator | [Arduino-Water-Level-Indicator](https://github.com/asadh-74/Arduino-Water-Level-Indicator) | Report archive; controller identity/source needs verification. |
 | Smart parking | [Smart-Parking-System](https://github.com/asadh-74/Smart-Parking-System) | Report and hardware photo; executable firmware not verified. |
 | RFID lock | [RFID-Door-Lock](https://github.com/asadh-74/RFID-Door-Lock) | Report and hardware photo; firmware and access-control tests not rerun. |
@@ -42,5 +42,5 @@ For an engineering project to be reproducible, include native design/firmware fi
 
 - Profile now represents both software/AI and embedded/hardware.
 - Thirteen repositories received report-sourced images with page captions; image blob SHAs were verified in their current Git trees.
-- Website source has GitHub links on 27 project entries, with private access labels.
+- Website source has GitHub links on all 30 project entries, with private access labels.
 - No hardware tests or model benchmarks were executed during this documentation pass.
