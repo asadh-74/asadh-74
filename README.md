@@ -37,6 +37,8 @@ My electrical engineering portfolio includes microcontroller projects, analog an
 
 Each project distinguishes report evidence, available design/source files, and outstanding validation. Several engineering repositories are private and will not be visible to visitors.
 
+[View the project inventory and completion status](PROJECT_STATUS.md)
+
 ## Technical toolkit
 
 - **Languages:** Python, C/C++, Java, JavaScript, PHP, SQL
