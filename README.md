@@ -2,17 +2,17 @@
 
 # Asad Hussain
 
-### Software Engineering · Applied AI · Backend Automation
+### Software & AI Engineering · Embedded Systems · Hardware
 
-I build software that connects reliable APIs, data workflows, and AI to practical business needs. My work spans backend systems, full-stack applications, machine learning prototypes, and agentic automation.
+I build software that connects reliable APIs, data workflows, and AI to practical business needs. My work spans backend systems, full-stack applications, machine learning prototypes, and agentic automation. Alongside software, I work on embedded systems, electronics, PCB design, and signal processing.
 
-Currently an **Automation Engineer at Cymatics Technologies**, building **Bid Monitor**, a procurement monitoring platform. I am completing a **B.E. at NUST (expected 2027)** and the **atomcamp AI Bootcamp at NSTP Islamabad (June-November 2026)**.
+Currently an **Automation Engineer at Cymatics Technologies**, building **Bid Monitor**, a procurement monitoring platform. I am completing a **B.E. Electrical Engineering at NUST (expected 2027)** and the **atomcamp AI Bootcamp at NSTP Islamabad (June-November 2026)**.
 
 **[LinkedIn](https://www.linkedin.com/in/asad-hussain92/) · [Upwork](https://www.upwork.com/freelancers/~0161b839f2733215d1)**
 
 <br clear="right" />
 
-## Selected projects
+## Software, AI & automation projects
 
 | Project | What I built | Technologies |
 | --- | --- | --- |
@@ -24,9 +24,23 @@ Currently an **Automation Engineer at Cymatics Technologies**, building **Bid Mo
 | **[AutoFlow](https://github.com/asadh-74/AutoFlow)** | Operations dashboard with customer workflows, webhooks, execution tracking, CSV cleaning, and reporting. | Spring Boot, FastAPI, PostgreSQL, n8n |
 | **[PCB Defect Detection](https://github.com/asadh-74/PCB-Defect-Detection)** | Six-class visual inspection pipeline with tiling, board-based splits, and YOLO/Faster R-CNN evaluation. | PyTorch, Ultralytics, torchvision |
 
+## Embedded systems & hardware
+
+My electrical engineering portfolio includes microcontroller projects, analog and digital circuits, PCB design, control systems, and MATLAB signal processing.
+
+- **ESP32 / LilyGO fleet tracking:** team internship work integrating GPS, RFID and cellular telemetry with a web dashboard. [Case study and prototype photos](https://github.com/asadh-74/asad-portfolio/blob/main/frontend/rdc-hit.html)
+- **Digital and embedded systems:** four-bit ALU, RFID access control, parking monitoring, and solar tracking project reports.
+- **Electronics and PCB design:** FM receiver, active filtering, power supply, relay PCB, and ESP32 design files.
+- **Control and signal processing:** DC motor control, EEG filtering, and a five-band equalizer.
+- **EV charging and BMS:** combined project archive; integration and runtime validation remain unfinished.
+- **Current work:** STM32-based low-voltage power-quality conditioner prototype; voltage regulation and protection validation are in progress.
+
+Each project distinguishes report evidence, available design/source files, and outstanding validation. Several engineering repositories are private and will not be visible to visitors.
+
 ## Technical toolkit
 
-- **Languages:** Python, Java, JavaScript, PHP, SQL
+- **Languages:** Python, C/C++, Java, JavaScript, PHP, SQL
+- **Embedded and engineering:** Arduino, ESP32, STM32 prototyping, MATLAB/Simulink, Proteus, PCB design, electrical CAD
 - **Backend and web:** FastAPI, Flask, Laravel, Spring Boot, Vue.js, REST APIs
 - **AI/ML:** scikit-learn, TensorFlow/Keras, PyTorch, OpenCV, YOLO, RAG
 - **Agents and automation:** LangChain, LangGraph, CrewAI, n8n, Playwright, webhooks
@@ -48,6 +62,6 @@ I value readable code, secure integrations, reliable data flows, and measurable 
 
 ## Contact
 
-Open to remote software engineering, backend, AI application, and automation roles, as well as freelance projects.
+Open to software engineering, backend, AI application, automation, and embedded systems opportunities, including projects connecting hardware with useful software.
 
 Reach me on **[LinkedIn](https://www.linkedin.com/in/asad-hussain92/)** or **[Upwork](https://www.upwork.com/freelancers/~0161b839f2733215d1)**.
